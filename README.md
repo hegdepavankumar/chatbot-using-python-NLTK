@@ -47,7 +47,7 @@ You can run the [chatbot.ipynb](https://github.com/parulnith/Building-a-Simple-C
 * Through Terminal
 
 
-## Creator [🔝](#Building-a-Simple-Chatbot-in-Python-using-NLTK-master)
+## Creator [🔝](#Building-a-Simple-Chatbot-in-Python-using-NLTK)
 
 (https://github.com/hegdepavankumar). This Project is Created by :-
 
