@@ -53,6 +53,9 @@ nltk.download('wordnet')
 You can run the [chatbot.ipynb](https://github.com/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK/blob/master/Chatbot.ipynb) which also includes step by step instructions.
 * Through Terminal
 
+## Note 
+If you wanna change something or improve feel free to change and give Pull Request (Only Required Changes are accepted).
+
 
 ## Creator [🔝](#Building-a-Simple-Chatbot-in-Python-using-NLTK)
 
