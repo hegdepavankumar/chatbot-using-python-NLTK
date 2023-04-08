@@ -54,7 +54,7 @@ You can run the [chatbot.ipynb](https://github.com/parulnith/Building-a-Simple-C
 * Through Terminal
 
 ## Note 
-If you wanna change something or improve feel free to change and give Pull Request (Only Required Changes are accepted).
+If you wanna change something or improve feel free to change and Pull the Request (Only Required Changes are accepted).
 
 
 ## Creator [🔝](#Building-a-Simple-Chatbot-in-Python-using-NLTK)
@@ -65,4 +65,4 @@ If you wanna change something or improve feel free to change and give Pull Reque
 
 ```
            Hey Everyone Please give a star .. and Follow me for more amazing project ideas and Updates⭐ and don't forgot to fork the repo....
-          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Thank you~~~🙏😍~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Thank you~~~🙏😍~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
