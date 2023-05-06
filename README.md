@@ -56,6 +56,19 @@ You can run the [chatbot.ipynb](https://github.com/parulnith/Building-a-Simple-C
 ## Note 
 If you wanna change something or improve feel free to change and Pull the Request (Only Required Changes are accepted).
 
+<br>
+
+## Contributing
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+1. Fork the Project
+2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
+3. Commit your Changes (git commit -m 'Add some AmazingFeature')
+4. Push to the Branch (git push origin feature/AmazingFeature)
+5. Open a Pull Request
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+<br>
 
 ## Creator [🔝](#Building-a-Simple-Chatbot-in-Python-using-NLTK)
 
