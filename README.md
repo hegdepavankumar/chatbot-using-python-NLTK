@@ -66,6 +66,7 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (git commit -m 'Add some AmazingFeature')
 4. Push to the Branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
+6. [Community Rules](https://github.com/hegdepavankumar/chatbot-using-python-NLTK/blob/master/Community_Rules.md)
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 <br>
