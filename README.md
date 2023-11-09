@@ -1,8 +1,8 @@
 # Building a Simple Chatbot from Scratch in Python (using NLTK)
 
-![GitHub](https://img.shields.io/github/license/hegdepavankumar/chatbot-using-python-NLTK?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/chatbot-using-python-NLTK?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/chatbot-using-python-NLTK?style=flat)
+![GitHub](https://img.shields.io/github/license/imhegde/chatbot-using-python-NLTK?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/imhegde/chatbot-using-python-NLTK?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/imhegde/chatbot-using-python-NLTK?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/chatbot-using-python-NLTK.svg?cache=remove)
 
 
@@ -11,7 +11,7 @@
 
 History of chatbots dates back to 1966 when a computer program called ELIZA was invented by Weizenbaum. It imitated the language of a psychotherapist from only 200 lines of code. You can still converse with it here: [Eliza](http://psych.fullerton.edu/mbirnbaum/psych101/Eliza.htm?utm_source=ubisend.com&utm_medium=blog-link&utm_campaign=ubisend). 
 
-On similar lines let's create a very basic chatbot utlising the Python's NLTK library.It's a very simple bot with hardly any cognitive skills,but still a good way to get into NLP and get to know about chatbots.
+On similar lines let's create a very basic chatbot utilizing Python's NLTK library. It's a very simple bot with hardly any cognitive skills, but still a good way to get into NLP and get to know about chatbots.
 
 
 # Outline
@@ -21,7 +21,7 @@ On similar lines let's create a very basic chatbot utlising the Python's NLTK li
 * [How to run](#how-to-run)
 
 ## Motivation
-The idea of this project was not to create some SOTA chatbot with exceptional cognitive skills but just to utilise and test my Python skills.This was one of my very first projects, created  when I just stepped into the world of NLP and I thought of creating a simple chatbot just to make use of my newly acquired knowledge.
+The idea of this project was not to create some SOTA chatbot with exceptional cognitive skills but just to utilize and test my Python skills. This was one of my very first projects, created  when I just stepped into the world of NLP and I thought of creating a simple chatbot just to make use of my newly acquired knowledge.
 
 ## BlogPost
 
@@ -38,7 +38,7 @@ For platform-specific instructions, read [here](https://www.nltk.org/install.htm
 pip install nltk
 ```
 ### Installing required packages
-After NLTK has been downloaded, install required packages
+After NLTK has been downloaded, install the required packages
 ```
 import nltk
 from nltk.stem import WordNetLemmatizer
@@ -50,7 +50,7 @@ nltk.download('wordnet')
 ## How to run
 * Jupyter Notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK/master)
 
-You can run the [chatbot.ipynb](https://github.com/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK/blob/master/Chatbot.ipynb) which also includes step by step instructions.
+You can run the [chatbot.ipynb](https://github.com/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK/blob/master/Chatbot.ipynb) which also includes step-by-step instructions.
 * Through Terminal
 
 ## Note 
@@ -59,24 +59,24 @@ If you wanna change something or improve feel free to change and Pull the Reques
 <br>
 
 ## Contributing
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 1. Fork the Project
 2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
-3. Commit your Changes (git commit -m 'Add some AmazingFeature')
+3. Commit your changes (git commit -m 'Add some AmazingFeature')
 4. Push to the Branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
-6. [Community Rules](https://github.com/hegdepavankumar/chatbot-using-python-NLTK/blob/master/Community_Rules.md)
+6. [Community Rules](https://github.com/imhegde/chatbot-using-python-NLTK/blob/master/Community_Rules.md)
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 <br>
 
 ## Creator [🔝](#Building-a-Simple-Chatbot-in-Python-using-NLTK)
 
-(https://github.com/hegdepavankumar). This Project is Created by :-
+(https://github.com/imhegde). This Project is Created by:-
 
-| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
+| [<img src="https://github.com/imhegde.png?size=115" width="115"><br><sub>@imhegde</sub>](https://github.com/imhegde) |
 
 ```
-           Hey Everyone Please give a star .. and Follow me for more amazing project ideas and Updates⭐ and don't forgot to fork the repo....
+           Hey Everyone Please give me a star .. and Follow me for more amazing project ideas and Updates⭐ and don't forget to fork the repo...
   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Thank you~~~🙏😍~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
