@@ -1,8 +1,8 @@
 # Building a Simple Chatbot from Scratch in Python (using NLTK)
 
-![GitHub](https://img.shields.io/github/license/imhegde/chatbot-using-python-NLTK?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/imhegde/chatbot-using-python-NLTK?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/imhegde/chatbot-using-python-NLTK?style=flat)
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/chatbot-using-python-NLTK?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/chatbot-using-python-NLTK?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/chatbot-using-python-NLTK?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/chatbot-using-python-NLTK.svg?cache=remove)
 
 
@@ -66,16 +66,16 @@ Contributions are what make the open-source community such an amazing place to l
 3. Commit your changes (git commit -m 'Add some AmazingFeature')
 4. Push to the Branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
-6. [Community Rules](https://github.com/imhegde/chatbot-using-python-NLTK/blob/master/Community_Rules.md)
+6. [Community Rules](https://github.com/hegdepavankumar/chatbot-using-python-NLTK/blob/master/Community_Rules.md)
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 <br>
 
 ## Creator [🔝](#Building-a-Simple-Chatbot-in-Python-using-NLTK)
 
-(https://github.com/imhegde). This Project is Created by:-
+(https://github.com/hegdepavankumar). This Project is Created by:-
 
-| [<img src="https://github.com/imhegde.png?size=115" width="115"><br><sub>@imhegde</sub>](https://github.com/imhegde) |
+| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
 
 ```
            Hey Everyone Please give me a star .. and Follow me for more amazing project ideas and Updates⭐ and don't forget to fork the repo...
